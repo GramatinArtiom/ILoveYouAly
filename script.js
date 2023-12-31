@@ -56,7 +56,7 @@ function openModal() {
     ];
 
     if (currentDate.getDate() === 6 && currentDate.getMonth() === 0) {
-        messages.unshift('Happy Anniversary! One year of love and joy together');
+        messages.unshift('And another year passed, it was the best year, because it was with you, I love you, you are my live, amore!');
     }
 
     var randomMessage = messages[Math.floor(Math.random() * messages.length)];
