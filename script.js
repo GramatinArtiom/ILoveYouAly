@@ -44,7 +44,7 @@ function openModal() {
 				"You are the reason of why I'm still standing ;)",
 				"You are the reason why I didn't give up on even the most impossible things.",
 				"You are a true wife, because you can keep my belly full and my balls empty ;)",
-				"From the first yaers of our communication I didn't know that we will be together, it is just surprising!",
+				"From the first years of our communication I didn't know that we will be together, it is just surprising!",
 				"My last thing that I would like to see in my life is your lips which will kiss me.",
 				"Don't leave me, you are more than just a girlfriend for me, you are my whole life, my world",
 				"I always thinks how lucky I am, having you",
